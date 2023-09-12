@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LibraryJDBC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LibraryJDBC_jar</output-path>
+    <root id="archive" name="LibraryJDBC.jar">
+      <element id="module-output" name="LibraryJDBC" />
+    </root>
+  </artifact>
+</component>
